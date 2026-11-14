@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="610" viewBox="0 0 1200 610" role="img" aria-label="Comp script for Shivam Kumar: the last year as the background plate (784 contributions over 67 active days), with travel-buddy1, Ashborne-lab, DDR, MUJ_Nav merged over it, then graded, written out and viewed. Render log: longest streak 10 days, longest break 140 days, 3 followers, 15 stars. Languages: Python 85%, HTML 4%, JavaScript 4%, TypeScript 3%, Java 1%, Go 1%.">
+<style>
+.pop{animation:pop .5s cubic-bezier(0.16, 1, 0.3, 1) both}
+.wireIn{stroke-dasharray:1;animation:wireIn .5s ease-out both}
+.boot{animation:fade .6s ease-out .1s both}
+.type{transform-box:fill-box;transform-origin:left center;animation-name:type;animation-duration:.6s;animation-fill-mode:both}
+.flow{stroke-dasharray:3 13;animation:flow 1.2s linear infinite}
+.pulse{animation-name:pulse;animation-timing-function:ease-in-out;animation-iteration-count:infinite}
+@keyframes pop{from{opacity:0;transform:translateY(6px)}}
+@keyframes wireIn{from{stroke-dashoffset:1}}
+@keyframes fade{from{opacity:0}}
+@keyframes type{from{transform:scaleX(0)}}
+@keyframes flow{from{stroke-dashoffset:16}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<defs>
+  <clipPath id="frame"><rect width="1200" height="610" rx="16"/></clipPath>
+  <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r="1" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  <linearGradient id="cyc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b2b2b"/><stop offset=".78" stop-color="#1a1a1a"/><stop offset="1" stop-color="#101010"/></linearGradient>
+  <linearGradient id="plateSky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05060a"/><stop offset="0.3" stop-color="#0d1220"/><stop offset="0.45" stop-color="#2a2433"/><stop offset="0.55" stop-color="#7a5634"/><stop offset="0.6" stop-color="#e2b46e"/><stop offset=".6" stop-color="#3a2c22"/><stop offset="1" stop-color="#0b0c10"/></linearGradient>
+  <radialGradient id="mt0" cx="38%" cy="30%" r="75%"><stop offset="0" stop-color="#baa3d1"/><stop offset=".45" stop-color="#663399"/><stop offset="1" stop-color="#1f0f2e"/></radialGradient><radialGradient id="mt1" cx="38%" cy="30%" r="75%"><stop offset="0" stop-color="#edb1cc"/><stop offset=".45" stop-color="hsl(333 62% 58%)"/><stop offset="1" stop-color="#40182a"/></radialGradient><radialGradient id="mt2" cx="38%" cy="30%" r="75%"><stop offset="0" stop-color="#a4c0d7"/><stop offset=".45" stop-color="#3572a5"/><stop offset="1" stop-color="#102232"/></radialGradient><radialGradient id="mt3" cx="38%" cy="30%" r="75%"><stop offset="0" stop-color="#f9f1b5"/><stop offset=".45" stop-color="#f1e05a"/><stop offset="1" stop-color="#48431b"/></radialGradient>
+  <clipPath id="lg0"><rect class="type" style="animation-delay:1.6s;animation-timing-function:steps(38)" x="40" y="449" width="254.8" height="18"/></clipPath><clipPath id="lg1"><rect class="type" style="animation-delay:1.92s;animation-timing-function:steps(44)" x="40" y="471" width="294.4" height="18"/></clipPath><clipPath id="lg2"><rect class="type" style="animation-delay:2.24s;animation-timing-function:steps(56)" x="40" y="493" width="373.6" height="18"/></clipPath><clipPath id="lg3"><rect class="type" style="animation-delay:2.56s;animation-timing-function:steps(53)" x="40" y="515" width="353.8" height="18"/></clipPath><clipPath id="lg4"><rect class="type" style="animation-delay:2.88s;animation-timing-function:steps(44)" x="40" y="537" width="294.4" height="18"/></clipPath><clipPath id="lg5"><rect class="type" style="animation-delay:3.2s;animation-timing-function:steps(30)" x="40" y="559" width="202" height="18"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="610" fill="#0e0e0e"/>
+  <rect y="36" width="1200" height="376" fill="url(#dots)"/>
+  <g class="boot" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+    <rect width="1200" height="36" fill="#111111"/>
+    <path d="M0 35.5H1200M0 412.5H1200" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="24" y="23" font-size="11" font-weight="700" letter-spacing="1.6" fill="#f0ede8">NODE GRAPH</text>
+    <text x="128" y="23" font-size="10" letter-spacing="1" fill="#8a8a82">ashbornela_0100_comp_v067</text>
+    <text x="1176" y="23" text-anchor="end" font-size="10" letter-spacing="1" fill="#8a8a82">12 nodes</text>
+  </g>
+  <g class="boot" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="700" letter-spacing="2">
+<rect x="196" y="50" width="586" height="350" rx="8" fill="#c8a96e" opacity="0.06"/><text x="212" y="72" fill="#c8a96e" fill-opacity=".85">SELECTED WORK</text>
+<rect x="792" y="50" width="384" height="350" rx="8" fill="#4a9eff" opacity="0.06"/><text x="806" y="72" fill="#4a9eff" fill-opacity=".85">OUTPUT</text>
+<text x="40" y="72" fill="#8a8a82">THE YEAR</text>
+</g>
+  <g fill="none" stroke="#9a9a92" stroke-width="1.4"><path class="wireIn" pathLength="1" style="animation-delay:0.5s" d="M349 194V214"/><path class="wireIn" pathLength="1" style="animation-delay:0.7s" d="M446 278V258"/><path class="wireIn" pathLength="1" style="animation-delay:0.8s" d="M544 194V214"/><path class="wireIn" pathLength="1" style="animation-delay:1s" d="M641 278V258"/><path class="wireIn" pathLength="1" style="animation-delay:0.42s" d="M164 236H312"/><path class="wireIn" pathLength="1" style="animation-delay:0.62s" d="M379 236H409"/><path class="wireIn" pathLength="1" style="animation-delay:0.7200000000000001s" d="M476 236H507"/><path class="wireIn" pathLength="1" style="animation-delay:0.92s" d="M574 236H604"/><path class="wireIn" pathLength="1" style="animation-delay:1.1199999999999999s" d="M671 236H799"/><path class="wireIn" pathLength="1" style="animation-delay:1.22s" d="M898 236H929"/><path class="wireIn" pathLength="1" style="animation-delay:1.42s" d="M1048 236H1079"/></g>
+  <g class="pop" style="animation-delay:1.8s"><path class="flow" d="M164 236H1086" fill="none" stroke="#c8a96e" stroke-width="2" stroke-linecap="round" opacity=".9"/></g>
+  <g fill="#9a9a92"><path class="pop" style="animation-delay:0.7s" d="M349 221l-4 -7h8z"/><text class="pop" style="animation-delay:0.7s" x="355" y="210.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" fill="#8a8a82">A</text><path class="pop" style="animation-delay:0.8999999999999999s" d="M446 251l-4 7h8z"/><text class="pop" style="animation-delay:0.8999999999999999s" x="452" y="267.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" fill="#8a8a82">A</text><path class="pop" style="animation-delay:1s" d="M544 221l-4 -7h8z"/><text class="pop" style="animation-delay:1s" x="550" y="210.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" fill="#8a8a82">A</text><path class="pop" style="animation-delay:1.2s" d="M641 251l-4 7h8z"/><text class="pop" style="animation-delay:1.2s" x="647" y="267.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" fill="#8a8a82">A</text><path class="pop" style="animation-delay:0.5s" d="M319 236l-7 -4v8z"/><path class="pop" style="animation-delay:0.7s" d="M416 236l-7 -4v8z"/><path class="pop" style="animation-delay:0.8s" d="M514 236l-7 -4v8z"/><path class="pop" style="animation-delay:1s" d="M611 236l-7 -4v8z"/><path class="pop" style="animation-delay:1.2s" d="M806 236l-7 -4v8z"/><path class="pop" style="animation-delay:1.3s" d="M936 236l-7 -4v8z"/><path class="pop" style="animation-delay:1.5s" d="M1086 236l-7 -4v8z"/><text class="pop" style="animation-delay:0.5s" x="172" y="230" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" fill="#8a8a82">B</text></g>
+  <g class="pop" style="animation-delay:0.4s">
+<rect x="42" y="188" width="124" height="102" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="40" y="185" width="124" height="102" rx="5" fill="#3a3f4b"/>
+<g clip-path="url(#st0)"><rect x="44" y="189" width="116" height="58" fill="url(#plateSky)"/><circle cx="102" cy="223" r="4" fill="#fff1cf"/><ellipse cx="102" cy="223" rx="58" ry="1.2" fill="#4a9eff" opacity=".8"/><path d="M44 247V246H48.5V246H52.9V246H57.4V246H61.8V246H66.3V246H70.8V246H75.2V246H79.7V246H84.2V246H88.6V246H93.1V246H97.5V246H102V246H106.5V246H110.9V237H115.4V232.8H119.8V232.7H124.3V246H128.8V240.7H133.2V240.7H137.7V234.1H142.2V231.4H146.6V217H151.1V224.6H155.5V223.3H160V247Z" fill="#0d0e11"/></g>
+<clipPath id="st0"><rect x="44" y="189" width="116" height="58" rx="2"/></clipPath>
+<text x="102" y="263" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">plate</text>
+<text x="102" y="278" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#f0ede8" fill-opacity=".62">frames 1001–1365</text>
+</g><g class="pop" style="animation-delay:0.5s">
+<rect x="289" y="95" width="124" height="102" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="287" y="92" width="124" height="102" rx="5" fill="#3a3f4b"/>
+<g clip-path="url(#st1)"><rect x="291" y="96" width="116" height="58" fill="url(#cyc)"/><ellipse cx="352" cy="143.4" rx="20" ry="3.4" fill="#000000" opacity="0.55"/><circle cx="349" cy="126.4" r="16" fill="url(#mt0)"/><ellipse cx="343" cy="119.4" rx="2.4" ry="1.7" fill="#ffffff" opacity=".85"/></g>
+<clipPath id="st1"><rect x="291" y="96" width="116" height="58" rx="2"/></clipPath>
+<text x="349" y="170" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">travel-buddy1</text>
+<text x="349" y="185" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#f0ede8" fill-opacity=".62">CSS · ★ 3</text>
+</g><g class="pop" style="animation-delay:0.5s">
+<rect x="321" y="223" width="60" height="28" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="319" y="221" width="60" height="30" rx="5" fill="#2a5a96"/>
+<text x="349" y="240" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">over</text>
+</g><g class="pop" style="animation-delay:0.7s">
+<rect x="386" y="281" width="124" height="102" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="384" y="278" width="124" height="102" rx="5" fill="#3a3f4b"/>
+<g clip-path="url(#st2)"><rect x="388" y="282" width="116" height="58" fill="url(#cyc)"/><ellipse cx="449" cy="329.4" rx="20" ry="3.4" fill="#000000" opacity="0.55"/><path d="M446 296.4l13 6l-13 6l-13 -6z" fill="#edb1cc"/><path d="M433 302.4l13 6v19l-13 -6z" fill="hsl(333 62% 58%)"/><path d="M459 302.4l-13 6v19l13 -6z" fill="#40182a"/></g>
+<clipPath id="st2"><rect x="388" y="282" width="116" height="58" rx="2"/></clipPath>
+<text x="446" y="356" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">Ashborne-lab</text>
+<text x="446" y="371" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#f0ede8" fill-opacity=".62">★ 2</text>
+</g><g class="pop" style="animation-delay:0.7s">
+<rect x="418" y="223" width="60" height="28" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="416" y="221" width="60" height="30" rx="5" fill="#2a5a96"/>
+<text x="446" y="240" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">over</text>
+</g><g class="pop" style="animation-delay:0.8s">
+<rect x="484" y="95" width="124" height="102" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="482" y="92" width="124" height="102" rx="5" fill="#3a3f4b"/>
+<g clip-path="url(#st3)"><rect x="486" y="96" width="116" height="58" fill="url(#cyc)"/><ellipse cx="547" cy="143.4" rx="20" ry="3.4" fill="#000000" opacity="0.55"/><linearGradient id="mtc2"><stop offset="0" stop-color="#2a5b84"/><stop offset=".3" stop-color="#a4c0d7"/><stop offset=".55" stop-color="#3572a5"/><stop offset="1" stop-color="#102232"/></linearGradient><path d="M531 112.4V139.4a13 4 0 0 0 26 0V112.4z" fill="url(#mtc2)"/><ellipse cx="544" cy="112.4" rx="13" ry="4" fill="#a4c0d7"/></g>
+<clipPath id="st3"><rect x="486" y="96" width="116" height="58" rx="2"/></clipPath>
+<text x="544" y="170" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">DDR</text>
+<text x="544" y="185" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#f0ede8" fill-opacity=".62">Python · ★ 3</text>
+</g><g class="pop" style="animation-delay:0.8s">
+<rect x="516" y="223" width="60" height="28" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="514" y="221" width="60" height="30" rx="5" fill="#2a5a96"/>
+<text x="544" y="240" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">over</text>
+</g><g class="pop" style="animation-delay:1s">
+<rect x="581" y="281" width="124" height="102" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="579" y="278" width="124" height="102" rx="5" fill="#3a3f4b"/>
+<g clip-path="url(#st4)"><rect x="583" y="282" width="116" height="58" fill="url(#cyc)"/><ellipse cx="644" cy="329.4" rx="20" ry="3.4" fill="#000000" opacity="0.55"/><g transform="translate(639 315.4)" fill="url(#mt3)"><path d="M-12 -2c-9 -3 -11 9 -2 9" fill="none" stroke="#f1e05a" stroke-width="2.6"/><path d="M11 3c7 0 8 -9 13 -12l1.6 1.4c-4 4 -5 13 -14 13z"/><ellipse cy="1" rx="14" ry="11"/><ellipse cy="-9.5" rx="8" ry="2.4" fill="#f9f1b5"/><circle cy="-12.4" r="2" fill="#f9f1b5"/></g><ellipse cx="633" cy="310.4" rx="2.2" ry="1.5" fill="#ffffff" opacity=".85"/></g>
+<clipPath id="st4"><rect x="583" y="282" width="116" height="58" rx="2"/></clipPath>
+<text x="641" y="356" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">MUJ_Nav</text>
+<text x="641" y="371" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#f0ede8" fill-opacity=".62">JavaScript · ★ 2</text>
+</g><g class="pop" style="animation-delay:1s">
+<rect x="613" y="223" width="60" height="28" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="611" y="221" width="60" height="30" rx="5" fill="#2a5a96"/>
+<text x="641" y="240" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">over</text>
+</g><g class="pop" style="animation-delay:1.2s">
+<rect x="808" y="223" width="92" height="28" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="806" y="221" width="92" height="30" rx="5" fill="#8f7440"/>
+<text x="852" y="240" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">Grade</text>
+</g><g class="pop" style="animation-delay:1.3s">
+<rect x="938" y="223" width="112" height="28" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="936" y="221" width="112" height="30" rx="5" fill="#8a3a32"/>
+<text x="992" y="240" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">Write</text>
+</g><g class="pop" style="animation-delay:1.5s">
+<rect x="1088" y="223" width="84" height="28" rx="5" fill="#000000" opacity="0.5"/>
+<rect x="1086" y="221" width="84" height="30" rx="5" fill="#4a4a4a"/>
+<text x="1128" y="240" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#f0ede8">Viewer</text>
+</g><g class="pop" style="animation-delay:1.3s"><circle class="pulse" style="animation-duration:1.4s" cx="1036" cy="236" r="3" fill="#c8a96e"/></g>
+  <text class="pop" style="animation-delay:1.2s" x="852" y="268" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#8a8a82">gain ×1.15</text><text class="pop" style="animation-delay:1.3s" x="992" y="268" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#8a8a82">ashbornela_0100_v067.exr</text>
+  <rect x="0" y="413" width="1200" height="197" fill="#141414"/>
+  <g class="boot" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="2" fill="#8a8a82">
+    <text x="40" y="438">RENDER LOG</text>
+    <text x="676" y="438">COLOUR CHART · LANGUAGES</text>
+    <path d="M652 426V594" stroke="#ffffff" stroke-opacity="0.08"/>
+  </g>
+  <g clip-path="url(#lg0)"><text x="40" y="462" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" xml:space="preserve" fill="#c8c4bb"><tspan fill="#c8a96e">[render] </tspan>frames 1001–1365, one per day</text></g><g clip-path="url(#lg1)"><text x="40" y="484" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" xml:space="preserve" fill="#c8c4bb"><tspan fill="#c8c4bb">         </tspan>784 contributions on 67 active days</text></g><g clip-path="url(#lg2)"><text x="40" y="506" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" xml:space="preserve" fill="#c8c4bb"><tspan fill="#c8c4bb">         </tspan>longest streak 10 days · longest break 140 days</text></g><g clip-path="url(#lg3)"><text x="40" y="528" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" xml:space="preserve" fill="#c8c4bb"><tspan fill="#c8c4bb">         </tspan>peak frame 1347 · 27 OCT · 134 contributions</text></g><g clip-path="url(#lg4)"><text x="40" y="550" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" xml:space="preserve" fill="#c8c4bb"><tspan fill="#c8a96e">[review] </tspan>3 followers · 15 stars · since 2023</text></g><g clip-path="url(#lg5)"><text x="40" y="572" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" xml:space="preserve" fill="#c8c4bb"><tspan fill="#c8a96e">[status] </tspan>final v067 · approved</text></g><circle class="pop" style="animation-delay:3.7s" cx="250" cy="568" r="3.5" fill="#46a758"/>
+  <g class="pop" style="animation-delay:1.8s"><rect x="676" y="456" width="78" height="50" rx="2" fill="#3572a5"/>
+<text x="676" y="522" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" fill="#f0ede8">Python</text>
+<text x="676" y="536" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#8a8a82">85%</text></g><g class="pop" style="animation-delay:1.9s"><rect x="760" y="456" width="78" height="50" rx="2" fill="#e34c26"/>
+<text x="760" y="522" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" fill="#f0ede8">HTML</text>
+<text x="760" y="536" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#8a8a82">4%</text></g><g class="pop" style="animation-delay:2s"><rect x="844" y="456" width="78" height="50" rx="2" fill="#f1e05a"/>
+<text x="844" y="522" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" fill="#f0ede8">JavaScript</text>
+<text x="844" y="536" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#8a8a82">4%</text></g><g class="pop" style="animation-delay:2s"><rect x="928" y="456" width="78" height="50" rx="2" fill="#3178c6"/>
+<text x="928" y="522" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" fill="#f0ede8">TypeScript</text>
+<text x="928" y="536" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#8a8a82">3%</text></g><g class="pop" style="animation-delay:2.1s"><rect x="1012" y="456" width="78" height="50" rx="2" fill="#b07219"/>
+<text x="1012" y="522" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" fill="#f0ede8">Java</text>
+<text x="1012" y="536" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#8a8a82">1%</text></g><g class="pop" style="animation-delay:2.2s"><rect x="1096" y="456" width="78" height="50" rx="2" fill="#00add8"/>
+<text x="1096" y="522" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" fill="#f0ede8">Go</text>
+<text x="1096" y="536" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#8a8a82">1%</text></g>
+  <rect class="pop" style="animation-delay:2.3s" x="676" y="548" width="78" height="16" rx="2" fill="#f2f2f2"/><rect class="pop" style="animation-delay:2.3s" x="760" y="548" width="78" height="16" rx="2" fill="#c7c7c7"/><rect class="pop" style="animation-delay:2.4s" x="844" y="548" width="78" height="16" rx="2" fill="#999999"/><rect class="pop" style="animation-delay:2.4s" x="928" y="548" width="78" height="16" rx="2" fill="#6b6b6b"/><rect class="pop" style="animation-delay:2.5s" x="1012" y="548" width="78" height="16" rx="2" fill="#424242"/><rect class="pop" style="animation-delay:2.6s" x="1096" y="548" width="78" height="16" rx="2" fill="#1f1f1f"/>
+  <g class="pop" style="animation-delay:2.5s" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"><text x="676" y="592" font-size="10" font-weight="700" letter-spacing="2" fill="#8a8a82">TOOLKIT</text><text x="758" y="592" font-size="11" fill="#f0ede8">Python · HTML · JavaScript · TypeScript</text></g>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="609" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>

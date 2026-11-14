@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/breakdown-hero-dark.svg">
-  <img alt="Shivam Kumar: GitHub profile. A visual-effects shot breakdown: a city with one tower for every day of the last year, as tall as that day was busy, shown as wireframe, clay, normals and depth passes and then the final sunset beauty pass, with the name as the title. 782 contributions on 66 active days." src="./assets/breakdown-hero-light.svg" width="100%">
+  <img alt="Shivam Kumar: GitHub profile. A visual-effects shot breakdown: a city with one tower for every day of the last year, as tall as that day was busy, shown as wireframe, clay, normals and depth passes and then the final sunset beauty pass, with the name as the title. 784 contributions on 67 active days." src="./assets/breakdown-hero-light.svg" width="100%">
 </picture>
 </p>
 
@@ -13,7 +13,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/breakdown-script-dark.svg">
-  <img alt="Comp script: the last year is the background plate, frames 1001 to 1365, with travel-buddy1, Ashborne-lab, DDR, MUJ_Nav merged over it, then graded, written out as v066 and viewed. Render log: 782 contributions on 66 active days, longest streak 10 days, longest break 140 days, peak day October 27 with 134, 3 followers, 15 stars, on GitHub since 2023. Languages: Python 85%, HTML 4%, JavaScript 4%, TypeScript 3%, Java 1%, Go 1%." src="./assets/breakdown-script-light.svg" width="100%">
+  <img alt="Comp script: the last year is the background plate, frames 1001 to 1365, with travel-buddy1, Ashborne-lab, DDR, MUJ_Nav merged over it, then graded, written out as v067 and viewed. Render log: 784 contributions on 67 active days, longest streak 10 days, longest break 140 days, peak day October 27 with 134, 3 followers, 15 stars, on GitHub since 2023. Languages: Python 85%, HTML 4%, JavaScript 4%, TypeScript 3%, Java 1%, Go 1%." src="./assets/breakdown-script-light.svg" width="100%">
 </picture>
 </p>
 
@@ -23,7 +23,7 @@
 - **The shot:** one tower per day of the last 12 months and one row per week, laid out like the contribution calendar (Sunday on the left). A tower is as tall as that day was busy, relative to your busiest day. This week is nearest the camera; the oldest week recedes toward the sun.
 - **The passes:** wireframe, clay, normals and depth are the render passes a CG artist checks before a shot goes out. The hero wipes through them to the final beauty pass, the way a breakdown reel does.
 - **The timeline:** one frame per day, from frame 1001 (where shots start) to 1365. Bar heights are daily contributions, and the diamond marks your busiest day.
-- **Comp script:** the year is the background plate. Featured repositories are Read nodes merged over it, each with a material preview in its language colour. The result is graded, then written out as version v066: one version for every active day.
+- **Comp script:** the year is the background plate. Featured repositories are Read nodes merged over it, each with a material preview in its language colour. The result is graded, then written out as version v067: one version for every active day.
 - **Colour chart:** language share by bytes across public repositories, above a grey ramp.
 - **The end card:** an on-set lighting reference kit, with a grey ball, a chrome ball reflecting the shot's sunset and a colour chart.
 
