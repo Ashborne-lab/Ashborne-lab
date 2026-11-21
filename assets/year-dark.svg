@@ -491,6 +491,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 <rect class="c" style="animation-name:k52" x="795.5" y="134.1" width="11.5" height="11.5" rx="2.6" fill="#1a9aa3"/>
 <rect x="795.5" y="148.6" width="11.5" height="11.5" rx="2.6" fill="#182036"/>
 <rect class="c" style="animation-name:k52" x="795.5" y="148.6" width="11.5" height="11.5" rx="2.6" fill="#1a6b85"/>
+<rect x="795.5" y="163.2" width="11.5" height="11.5" rx="2.6" fill="#182036"/>
 <text class="small" x="69.1" y="194">Dec</text><text class="small" x="127.2" y="194">Jan</text><text class="small" x="199.8" y="194">Feb</text><text class="small" x="257.9" y="194">Mar</text><text class="small" x="316.0" y="194">Apr</text><text class="small" x="374.2" y="194">May</text><text class="small" x="446.8" y="194">Jun</text><text class="small" x="504.9" y="194">Jul</text><text class="small" x="563.0" y="194">Aug</text><text class="small" x="635.7" y="194">Sep</text><text class="small" x="693.8" y="194">Oct</text><text class="small" x="766.4" y="194">Nov</text>
 <g class="beam">
 <rect x="-24" y="72" width="48" height="106" fill="url(#glow)"/>
